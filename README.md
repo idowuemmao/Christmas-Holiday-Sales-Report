@@ -17,3 +17,5 @@ With a Drill through Page for Category to view the Category details.
 
 Link to Report: [https://lnkd.in/daD4sftP](https://app.powerbi.com/view?r=eyJrIjoiMTcyMzUyZTktNWZlYy00OWVmLWFiYjMtMWJlMDU2OTA0NTk2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
+Link to PBIX File: https://drive.google.com/file/d/158bQCqT3G6qnvDxaZcVFAHH9jo5MVUzL/view?usp=drive_link
+
